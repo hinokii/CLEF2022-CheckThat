@@ -1,9 +1,6 @@
 '''
-LING-582
-Shared Task - CheckThat! Task 1
+CheckThat! Task 1
 Draft Subtask 1B File - ct22_1B.py
-Name: Hinoki Crum (Hinoki's team)
-Date: 05/01/2022
 This file includes the code for Transfer Learning with TensorFlow Hud, which provided the accuracy score.
 '''
 

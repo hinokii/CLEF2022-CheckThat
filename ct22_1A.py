@@ -1,9 +1,6 @@
 '''
-LING-582
-Shared Task - CheckThat! Task 1
+CheckThat! Task 1
 Subtask 1A File - ct22_1A.py
-Name: Hinoki Crum (Hinoki's team)
-Date: 05/01/2022
 This file includes the code for Logistic Regression with TF-IDF and cost
 sensitive approach which resulted in the best f1 score for the minority class
 '''
